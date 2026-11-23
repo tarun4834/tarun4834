@@ -1,4 +1,4 @@
-# Hi, I am Anmol Singh!
+# Hi, I am Tarun Kumar
 
 ### About Me
 - B.Tech CSE (AI/ML) Student at **K.R. Mangalam University**, Gurugram (Batch 2026–30)
