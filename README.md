@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I am Anmol Singh!
 
-<!--
-**tarun4834/tarun4834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+- B.Tech CSE (AI/ML) Student at **K.R. Mangalam University**, Gurugram (Batch 2026–30)
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+- Interested in: AI / ML
 
-Here are some ideas to get you started:
+### Technical Skills
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python (Beginner), Bash / Shell Scripting |
+| **Tools** | Git, GitHub, VS Code, Linux Terminal, Postman |
+| **Concepts** | File Systems, Process Management, REST APIs, Markdown |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- [CSE103 Lab — LAB 3](https://github.com/Anmolsingh7860/cse103-lab-LAB3) Git workflows, API interaction, and Markdown documentation
+
+### Currently Working On
+- Building foundational projects in Python and Linux automation
+
+### Connect With Me
+- **Email:** 2601730086@krmu.edu.in
+- **LinkedIn:** [Anmol Singh](Aapka-LinkedIn-URL-Yahan-Dalein)
+
