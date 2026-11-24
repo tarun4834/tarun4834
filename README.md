@@ -13,12 +13,12 @@
 | **Concepts** | File Systems, Process Management, REST APIs, Markdown |
 
 ### Featured Projects
-- [CSE103 Lab — LAB 3](https://github.com/Anmolsingh7860/cse103-lab-LAB3) Git workflows, API interaction, and Markdown documentation
+- [CSE103 Lab — LAB 3](https://github.com/tarun4834) Git workflows, API interaction, and Markdown documentation
 
 ### Currently Working On
 - Building foundational projects in Python and Linux automation
 
 ### Connect With Me
-- **Email:** 2601730086@krmu.edu.in
-- **LinkedIn:** [Anmol Singh](Aapka-LinkedIn-URL-Yahan-Dalein)
+- **Email:** 2601730055@krmu.edu.in
+- **LinkedIn:** [Tarun] https://www.linkedin.com/in/tarun-kumar-40267228b/
 
